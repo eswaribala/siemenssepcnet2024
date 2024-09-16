@@ -1,0 +1,7 @@
+Write a C# program which will accept elements for an array from user. 
+Create a separate class which will have methods to perform following operations:
+1.Sort the array using selection sort.
+2.Accept an element and remove that element from the array. If element is not present, then corresponding message should be displayed.
+3.Accept a position and remove element from that position in the array.
+4.Accept an element and create an array of all elements which are larger than the element and display all the elements
+5.Accept an element and position, then insert that element in that position in the array.
