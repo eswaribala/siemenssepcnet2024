@@ -1,0 +1,14 @@
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\bin\Debug\net8.0\BankingApp.exe
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\bin\Debug\net8.0\BankingApp.dll
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.dll
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+F:\Local disk\CSharpSiemensDotnetSep2024\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll
