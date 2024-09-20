@@ -11,12 +11,12 @@ namespace BankingAppV3
         static void Main()
         {
             // Start the task executing:
-            var task = Task.Factory.StartNew
+            var task = Task.Factory.StartNew<Task<string>>
             (() =>DownloadString("https://jsonplaceholder.typicode.com/users"));
-           if(task.IsCompletedSuccessfully)
-            {
-                Console.WriteLine(task.Result.ToString());
-            }
+           //if(task.IsCompleted)
+           // {
+                Console.WriteLine(task.GetAwaiter().GetResult());
+           // }
             Console.ReadKey();
          
         }
