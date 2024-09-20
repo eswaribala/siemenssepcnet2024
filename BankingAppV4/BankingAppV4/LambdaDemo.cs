@@ -38,7 +38,7 @@ namespace BankingAppV4
 
         }
 
-        static List<Transaction> GenerateTransactions()
+      public  static List<Transaction> GenerateTransactions()
         {
             List<Transaction> transactions = new List<Transaction>();
 

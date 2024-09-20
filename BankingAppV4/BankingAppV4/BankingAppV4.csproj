@@ -5,12 +5,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BankingAppV4.LambdaDemo</StartupObject>
+    <StartupObject>BankingAppV4.ExportToExcel</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Faker.Net" Version="2.0.163" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NPOI" Version="2.7.1" />
   </ItemGroup>
 
 </Project>

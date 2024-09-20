@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankingAppV4": {
+      "commandName": "Project",
+      "commandLineArgs": "\"F:\\Local disk\\CSharpSiemensDotnetSep2024\\BankingAppV4\\BankingAppV4\""
+    }
+  }
+}
